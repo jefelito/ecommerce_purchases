@@ -1,4 +1,4 @@
-# Ecommerce Purchase Intentions
+# E-commerce Customer Purchase Intentions
 
 ## Repository Contents
 
