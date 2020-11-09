@@ -21,7 +21,7 @@ Data came from UCI, [link is here](https://archive.ics.uci.edu/ml/datasets/Onlin
 - BounceRates : Bounce Rates of a web page
 - ExitRates : Exit rate of a web page
 - PageValues : Page values of each web page
-- SpecialDay : Special days like valentine etc
+- SpecialDay : Special days like Valentine's Day etc
 - Month : Month of the year
 - OperatingSystems : Operating system used
 - Browser : Browser used
