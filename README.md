@@ -2,7 +2,7 @@
 
 ## Repository Contents
 
-- notebooks`: folder containing draft notebooks with modeling process
+- `notebooks`: folder containing draft notebooks with modeling process
     - `d_tree_model.ipynb`: draft notebook for decision tree and random forest model iteration
     - `log_reg_model.ipynb`: draft notebook for logistic regression model iterations
 - `visualizations`: folder containing all visualzations generated in `eda_notebook.ipynb`
