@@ -26,7 +26,7 @@ How can the company increase purchase rate among customers who visit the website
 
 ## Business Questions
 
-1. How does the number of visiors differ each month?
+1. How does the number of visitors differ each month?
 2. Do returning visitors have a higher revenue than one-time visitors?
 3. What feature has the best and worst impact on revenue?
 
