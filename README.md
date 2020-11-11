@@ -2,17 +2,17 @@
 
 ## Repository Contents
 
-`notebooks`: folder containing draft notebooks with modeling process
+- notebooks`: folder containing draft notebooks with modeling process
     - `d_tree_model.ipynb`: draft notebook for decision tree and random forest model iteration
     - `log_reg_model.ipynb`: draft notebook for logistic regression model iterations
-`visualizations`: folder containing all visualzations generated in `eda_notebook.ipynb`
-`.ipynb_checkpoints`: folder containing Jupyter Notebook checkpoints, can disregard
-`eda_notebook.ipynb`: notebook with exploratory data analysis (EDA) process
-`business_insights`: notebook with final visualizations that answer the business problems
-`final_model_notebook.ipynb`: notebook with modeling process for final model that recieved the highest evaluation metric
-`online_shoppers_intention.csv`: .csv file with original research data from UCI
-`model_data.csv`: .csv file with data cleaned in `eda_notebook.ipynb`
-`READ.md`: markdown file to display README on repository
+- `visualizations`: folder containing all visualzations generated in `eda_notebook.ipynb`
+- `.ipynb_checkpoints`: folder containing Jupyter Notebook checkpoints, can disregard
+- `eda_notebook.ipynb`: notebook with exploratory data analysis (EDA) process
+- `business_insights`: notebook with final visualizations that answer the business problems
+- `final_model_notebook.ipynb`: notebook with modeling process for final model that recieved the highest evaluation metric
+- `online_shoppers_intention.csv`: .csv file with original research data from UCI
+- `model_data.csv`: .csv file with data cleaned in `eda_notebook.ipynb`
+- `READ.md`: markdown file to display README on repository
 
 ## Overview
 
@@ -39,7 +39,7 @@ The research study gathered data from each session of website traffic over the 1
 | Column Name | Description |
 |-|-|
 | **Administrative** | Administrative Page Value |
-| *Administrative_Duration** | Duration in Administrative Page |
+| **Administrative_Duration** | Duration in Administrative Page |
 | **Informational** | Informational Page Value |
 | **Informational_Duration** | Duration in Informational Page |
 | **ProductRelated** | Product Related Page Value |
