@@ -28,7 +28,7 @@ How can the company increase conversion rate among customers who visit the websi
 
 1. How does the number of visitors differ each month?
 2. Do returning visitors have a higher revenue than one-time visitors?
-3. What feature has the best and worst impact on revenue?
+3. What feature has the highest influence on revenue?
 
 ## Data & Methods
 
