@@ -12,7 +12,7 @@
 - `final_model_notebook.ipynb`: notebook with modeling process for final model that recieved the highest evaluation metric
 - `online_shoppers_intention.csv`: .csv file with original research data from UCI
 - `model_data.csv`: .csv file with data cleaned in `eda_notebook.ipynb`
-- `READ.md`: markdown file to display README on repository
+- `README.md`: markdown file to display README on repository
 
 ## Overview
 
@@ -22,7 +22,7 @@ The scoring metric will be _ _ because ____.
 
 ## Primary Business Problem
 
-How can the company increase purchase rate among customers who visit the website?
+How can the company increase conversion rate among customers who visit the website?
 
 ## Business Questions
 
