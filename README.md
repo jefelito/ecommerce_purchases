@@ -86,5 +86,5 @@ We tried performing grid search with cross validation to optimize other hyperpar
 
 ## Next Steps
 - Collect more data, but include a legend for categorical variables to promote interpretability.
-- Webscrape simliar data from other e-commerce stores within the industry to see how the model performs with that blind data.
-- A/B Testing the web design of the prominence of Adminstrative and Informational page links to increase length of user session.
+- Webscrape similar data from other e-commerce stores within the industry to see how the model performs with that blind data.
+- A/B Testing the web design of the prominence of Adminisrative and Informational page links to increase length of user session.
