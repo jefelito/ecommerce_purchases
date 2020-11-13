@@ -13,6 +13,7 @@
 - `final_model.ipynb`: notebook with modeling process for final model that recieved the highest evaluation metric
 - `online_shoppers_intention.csv`: .csv file with original research data from UCI
 - `model_data.csv`: .csv file with data cleaned within `eda_notebook.ipynb`
+- `presentation.pdf`: .pdf wil project presentation
 - `README.md`: markdown file to display README on repository
 
 ## Overview
@@ -23,7 +24,7 @@ The primary evaluation metric will be Recall because it indicates the amount of 
 
 ## Primary Business Problem
 
-How can the company increase conversion among customers who visit the website?
+**What are the areas of opportunity to increase conversion among people who visit the website?**
 
 ![class](/visualizations/class_imbalance.png)
 
